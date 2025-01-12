@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="firemockup2" size="1.000000 1.000000" />
+    <ImageTarget name="firemockup" size="1.000000 1.000000" />
+    <ImageTarget name="plumbermockupdrops" size="1.000000 1.000000" />
+    <ImageTarget name="ghostmockup" size="1.000000 1.000000" />
+    <ImageTarget name="shipfinalmockup" size="1.000000 0.706956" />
+  </Tracking>
+</QCARConfig>
