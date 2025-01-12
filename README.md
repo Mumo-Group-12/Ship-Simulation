@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 **A Multimodal Ship Simulation** for course DT2140 @KTH. 
-Last update: 20245-01-12
+Last update: 2025-01-12
 
 ## Description
 ### Objective
